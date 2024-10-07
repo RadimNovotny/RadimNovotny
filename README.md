@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadimNovotny
 - 👀 I’m interested in music (TimberlineHG-guitar, keyboard, singing), Python, copy, marketing, advertisement, chess, etc.
-- 🌱 I’m currently learning Python (us a Junior), copy (as a Junior).
+- 🌱 I’m currently learning Python (as a Junior), copy (as a Junior).
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me FB, LinkedIn.
 - 😄 Pronouns: We.
